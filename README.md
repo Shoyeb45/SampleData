@@ -6,8 +6,9 @@ Download the following CSV files to test our application:
 
 ### 1. Home Energy CSV File
 
-- [Download Home Energy CSV File 1](blob:https://github.com/fc8a5f7e-addb-4aec-9c65-018ae5f6b4eb)
--  [Download Home Energy CSV File 2](blob:https://github.com/1ab3074f-f8b7-40eb-81d9-ba7e6270bddd)
+[Download Home Energy CSV File 1](blob:https://github.com/fc8a5f7e-addb-4aec-9c65-018ae5f6b4eb)
+
+[Download Home Energy CSV File 2](blob:https://github.com/1ab3074f-f8b7-40eb-81d9-ba7e6270bddd)
 
 ### 2. Utility Bill Data
 - [Download Utility Bill Data CSV File 1](blob:https://github.com/8ada768e-0a58-4d5b-8abd-d1df81aa5295)
