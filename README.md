@@ -16,5 +16,5 @@ Download the following CSV files to test our application:
 [Download Utility Bill Data CSV File 2](blob:https://github.com/57ee99e7-94a2-47b9-a97a-c815f62396b4)
 
 ### 3. Home Device Inventory
-[Download Home Device Inventory CSV File 1](blob:https://github.com/e16e0264-652e-4830-ba21-6dd4a9d91057)
+[Download Home Device Inventory CSV File 1](http://raw.githubusercontent.com/Shoyeb45/SampleData/refs/heads/main/data/home_device_inventory.csv)
 [Download Home Device Inventory CSV File 2](blob:https://github.com/b60ef92d-1164-4b82-ae60-72ef9ca1793e)
